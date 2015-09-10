@@ -174,7 +174,7 @@ conf.client = {
     ssl:     false,
     channel: ['#灌水区','#PERL学习交流','#Mojolicious','#shell/perl/python'],
     channel_key: '',
-    nick:    'irc_?',
+    nick:    '王大锤_?',
     settings: {
         theme: 'basic',
         text_theme: 'default',
