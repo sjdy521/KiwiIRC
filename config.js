@@ -172,7 +172,7 @@ conf.client = {
     server: 'irc.perfi.wang',
     port:    6667,
     ssl:     false,
-    channel: ['#灌水区','#PERL学习交流','#Mojolicious','#shell/perl/python'],
+    channel: ['#灌水区','#Mojolicious',],
     channel_key: '',
     nick:    '王大锤_?',
     settings: {
