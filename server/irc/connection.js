@@ -719,7 +719,7 @@ var socketConnectHandler = function () {
 
         } else if (!gecos) {
             // We don't have a gecos nor a default, so lets set somthing
-            gecos = '[www.kiwiirc.com] ' + that.nick;
+            gecos = '[irc.perfi.wang] ' + that.nick;
         }
 
         // Send any initial data for webirc/etc
