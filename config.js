@@ -91,6 +91,7 @@ conf.ircd_reconnect = true;
 conf.client_plugins = [
     'kiwi/assets/plugins/emoticonlist.html',
     'kiwi/assets/plugins/textstyle.html',
+    'kiwi/assets/plugins/dynamic_channel.html'
 ];
 
 // Directory to find the server modules

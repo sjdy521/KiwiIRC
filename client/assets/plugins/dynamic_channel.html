@@ -1,0 +1,8 @@
+<script>
+var channels_str = getQueryVariable('channel');
+if (channels_str) {
+    //var channels = channels_str.split(',');
+    $('.server_select').hide();
+    $('#server_select_channel').val(channels_str);
+}
+</script>
